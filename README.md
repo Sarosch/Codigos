@@ -8,4 +8,6 @@ FALTA DE ARQUIVO: necessario a criação de um codigo para leitura e transmiçã
 
 Obs: Este projeto não representa meu atual conhecimento em programação, já que o mesmo foi criado em um curso de ensino médio-Técnico e concluido em um prazo de 6 meses.
 
+Em caso de duvidas entre em contado atraves do Linkedin
+
 Agradecimento especial a meus colegas e ao orientador( citados no arquivo [PDF]).
